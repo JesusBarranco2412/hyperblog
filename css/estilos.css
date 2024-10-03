@@ -3,3 +3,9 @@ body{
     text-align: center;
     font-family: "Arial";
 }
+
+button{
+    border-radius: 10px;
+    background: rgb(99, 99, 218);
+    color:aliceblue;
+}
