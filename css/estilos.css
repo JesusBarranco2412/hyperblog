@@ -1,14 +1,15 @@
 body{
-    color:blue;
+    color: #333;
     text-align: center;
     font-family: "Arial";
     font-size: 16px;
     margin: 0;
     padding: 0;
+    background: #1e1f24;
 }
 
 #cabecera{
-    background: #33A;
+    background: #37488b;
     color:white;
     margin:0;
     padding:0.5em;
@@ -42,4 +43,11 @@ button{
 
 #post{
     padding:1em;
+    background: white;
+    
+}
+
+#cabecera #logo{
+    width: 25px;
+    vertical-align: middle;
 }
